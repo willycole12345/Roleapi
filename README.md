@@ -9,15 +9,14 @@ PostMan
  Url : http://127.0.0.1 or https://localhost/
 
 To register Users
-
- Url: http://127.0.0.0.1/create
-
+Request type: Post
+ Url: http://127.0.0.0.1/users
 
  Payload
 
 
  {
-    
+
      "firstname" :"",  
      "lastname" :"",  
      "email" :"",  
